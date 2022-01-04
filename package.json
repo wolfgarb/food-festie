@@ -1,13 +1,14 @@
 {
   "name": "food-festie",
   "version": "1.0.0",
-  "description": "An app that allows you to view upcoming food events.",
+  "description": "",
   "main": "assets/js/script.js",
   "scripts": {
     "webpack": "webpack --watch",
     "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "webpack-dev-server"
+    "start:dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
